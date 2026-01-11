@@ -39,11 +39,11 @@ Each time the program runs, different results are produced depending on the user
 
 Copy & paste the following command into Command Prompt / Terminal and run it:
 
-    git clone https://github.com/YOUR_USERNAME/tip_calculator.git
+    git clone https://github.com/BHNKCG/tip_calculator_in_python.git
 
 2. Navigate into the Project Folder (Run this in the same Command Prompt / Terminal)
 
-       cd tip_calculator
+       cd tip_calculator_in_python
 
 3. Run the Program (Run this in the same Command Prompt / Terminal)
 
